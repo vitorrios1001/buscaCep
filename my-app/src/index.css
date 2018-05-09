@@ -5,8 +5,16 @@ body {
 }
 
 .div {
-  margin: 0;
-  padding: 0;
   font-family: sans-serif;
   text-align: center;
 }
+
+p{
+  text-align: left;
+  padding-top: 25 px;
+}
+
+div{
+  align-self: center;
+}
+
